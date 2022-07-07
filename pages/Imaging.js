@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { GrPrevious, GrNext } from 'react-icons/Gr'
+import { GrPrevious, GrNext } from 'react-icons/gr'
 
 const Imaging = () => {
     const images = [
@@ -24,7 +24,7 @@ const Imaging = () => {
         }
     }
     
-    console.log(Values)
+    // console.log(Values)
     return (
         <>
             <section className="text-gray-600 body-font bg-gray-100">
