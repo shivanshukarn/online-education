@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Online Education</title>
+        <title>Online Education | Let&apos;s make it success</title>
         <meta name="description" content="Online Education" />
         <link rel="icon" href="/favicon.png" />
       </Head>

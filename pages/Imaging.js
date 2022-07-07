@@ -7,7 +7,12 @@ const Imaging = () => {
         "/imaging/imaging-2.jpg",
         "/imaging/imaging-3.jpg",
         "/imaging/imaging-4.jpg",
-        "/imaging/imaging-5.jpg"
+        "/imaging/imaging-5.jpg",
+        "/imaging/imaging-6.jpg",
+        "/imaging/imaging-7.jpg",
+        "/imaging/imaging-8.jpg",
+        "/imaging/imaging-9.jpg",
+        "/imaging/imaging-10.jpg",
     ]
 
     const [Values, setValues] = useState(0)

@@ -13,7 +13,7 @@ export default function Home() {
             Online learning provides fantastic flexibility, among other benefits, and aids in making the task of arranging development opportunities far easier.
             </p>
             <div className="flex justify-center">
-              <button className="inline-flex bg-[#18164d] text-white border-2 hover:bg-gray-200 hover:text-[#18164d] font-semibold hover:border-[#18164d] hover:border-2 py-2 px-6 focus:outline-none rounded text-lg">Get Started</button>
+              <a href="#Courses"><button className="inline-flex bg-[#18164d] text-white border-2 hover:bg-gray-200 hover:text-[#18164d] font-semibold hover:border-[#18164d] hover:border-2 py-2 px-6 focus:outline-none rounded text-lg">Get Started</button></a>
             </div>
           </div>
         </div>
