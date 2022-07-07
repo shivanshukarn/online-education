@@ -8,7 +8,7 @@ const Navbar = () => {
         <Link className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0" href='/'>
           <img src="/logo.png" className='w-56 p-1' alt="Online Education" />
         </Link>
-        <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center text-black font-semibold">
+        <nav className="md:ml-auto md:mr-auto mt-2 md:mt-0 flex flex-wrap items-center text-base justify-center text-black font-semibold">
           <Link href={'/'}><a className="mr-5 hover:text-[#18164d]">Home</a></Link>
           <Link href={'#Services'}><a className="mr-5 hover:text-[#18164d]">Services</a></Link>
           <Link href={'#Courses'}><a className="mr-5 hover:text-[#18164d]">Courses</a></Link>
