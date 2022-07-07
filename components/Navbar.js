@@ -5,9 +5,9 @@ const Navbar = () => {
   return (
     <nav>
       <div className="container bg-gray-100 mx-auto flex flex-wrap p-3 flex-col md:flex-row items-center">
-        <a className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0" href='/'>
+        <Link className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0" href='/'>
           <img src="/logo.png" className='w-56 p-1' alt="" />
-        </a>
+        </Link>
         <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center text-black font-semibold">
           <Link href={'/'}><a className="mr-5 hover:text-[#18164d]">Home</a></Link>
           <Link href={'#Services'}><a className="mr-5 hover:text-[#18164d]">Services</a></Link>

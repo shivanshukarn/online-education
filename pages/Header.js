@@ -7,7 +7,7 @@ export default function Home() {
           </div>
           <div className="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
             <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Online Education
-              <br />Let's make it success
+              <br />Let&apos;s make it success
             </h1>
             <p className="mb-8 leading-relaxed text-sm">Online learning is fundamentally student-centered, due to the easy implementation of student discussion boards and peer grading systems.
             Online learning provides fantastic flexibility, among other benefits, and aids in making the task of arranging development opportunities far easier.
